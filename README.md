@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @migueltosi
-- 👀 I'm in the first grade of high school
+- 👀 I'm in the second grade of high school
 - 🐧 A big fan of penguins but this has nothing to do with linux
 - 🐍 I’m currently learning python
 - 👽 I’m looking for experience
