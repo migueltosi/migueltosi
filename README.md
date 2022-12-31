@@ -1,9 +1,6 @@
 ### Hi there 👋 I am Miguel Tosi, AKA Magas!
 
 - 🐍 I’m currently learning data science. python and sql
-- 🐧 A big fan of penguins but this has nothing to do with linux
-- 👽 I’m looking for experience
-- 📫 How to reach me: @tosi.miguel on instagram/ @code_magas on twitter/ discord: Magas#3628
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=migueltosi&show_icons=true&theme=cobalt2&include_all_commits=true&count_private=true"/>
@@ -21,7 +18,7 @@
                                                                                                                                                       
 ##
 <div>
-  
+
   <a href="https://telegram.me/magastes" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
    <a href="https://discord.gg/nwnHQZbRXD" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/code_magas" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
