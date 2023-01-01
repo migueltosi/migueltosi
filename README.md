@@ -1,6 +1,11 @@
+<head>
+  <link rel="stylesheet" type="text/css" href="reset.css">
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+
 ### Hi there 👋 I am Miguel Tosi, AKA Magas!
 
-- 🐍 I’m currently learning data science. python and sql
+<p> 🐍 I’m currently learning data science. python and sql </p>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=migueltosi&show_icons=true&theme=cobalt2&include_all_commits=true&count_private=true"/>
@@ -33,5 +38,4 @@
   <a href="https://www.instagram.com/tosi.miguel/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/miguel-tosi-12314b259/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contactmigueltosi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
  
