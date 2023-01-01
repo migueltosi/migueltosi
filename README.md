@@ -13,9 +13,9 @@
 </div>
 
   
-<div style="display: inline_block"><br>
-
 ### Sources, Systems and Languages
+
+<div style="display: inline_block" align="center"><br>
   
 <img align="center" alt="Magas-Python" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
 <img align="center" alt="Magas-Jupyter" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"> 
