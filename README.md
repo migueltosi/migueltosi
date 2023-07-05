@@ -5,7 +5,7 @@
 
 ### Hi there 👋 I am Miguel Tosi, AKA Magastes!
 
-<p> 🐍 I’m currently learning statistic with python [Data Science] and linux</p>
+<p> 🐍 I’m currently learning linux and statistics with python [Data Science] </p>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=migueltosi&show_icons=true&theme=cobalt2&include_all_commits=true&count_private=true"/>
