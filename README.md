@@ -5,8 +5,10 @@
 
 ### Hi there 👋 I am Miguel Tosi, AKA Magastes!
 
-<p> 🐍 I’m currently learning linux and statistics with python [Data Science] </p>
-
+<p>Studying:</p>
+<p>   🐍 Data Science: Statistics with python</p>
+<p>   🐍 DevOps: Linux basics</p>
+<p>   🐍 Programming: Python django for web</p>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=migueltosi&show_icons=true&theme=cobalt2&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueltosi&layout=compact&langs_count=7&theme=cobalt2"/>
