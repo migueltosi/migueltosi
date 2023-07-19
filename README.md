@@ -7,7 +7,7 @@
 
 <p>Studying:</p>
 <p>   🐍 Data Science: Statistics with python</p>
-<p>   🐍 DevOps: Linux basics</p>
+<p>   🐧 DevOps: Linux basics</p>
 <p>   🐍 Programming: Python django for web</p>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=migueltosi&show_icons=true&theme=cobalt2&include_all_commits=true&count_private=true"/>
