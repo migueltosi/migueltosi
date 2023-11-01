@@ -8,7 +8,7 @@
 <p>Studying:</p>
 <p>   📊 Data Science: Statistics with python + Machine Learning start</p>
 <p>   💻 DevOps: Linux basics</p>
-<p>   👨‍💻 Back-end: JavaScript for back-end basics</p>
+<p>   👨‍💻 Back-end: Python for back-end basics</p>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=migueltosi&show_icons=true&theme=cobalt2&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueltosi&layout=compact&langs_count=7&theme=cobalt2"/>
