@@ -3,7 +3,7 @@
   <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 
-### Hi there 👋 I am Miguel Tosi, AKA Magastes!
+### Hi there 👋 I am Miguel Tosi!
 
 <p>Studying:</p>
 <p>   📊 Data Science: Statistics with python + Machine Learning start</p>
